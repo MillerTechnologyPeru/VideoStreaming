@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// Authorization Token
+/// Language
 public struct Language: Equatable, Hashable, RawRepresentable, Codable {
     
     public let rawValue: String
